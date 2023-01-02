@@ -3,6 +3,8 @@ title: "Ferreira Website"
 baseURL: "https://ferreira-website.netlify.app/"
 paginate: 5
 languageCode: "en-us"
+publishDir: "public"
+themesDir: "themes"
 
 enableRobotsTXT: true
 buildDrafts: false

@@ -6,7 +6,7 @@ category:
 summary:
 description: 
 cover:
-  image:
+  image: "covers/multitasking_girl.png"
   alt:
   caption: 
   relative: true

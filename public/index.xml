@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ferreira Website</title>
+    <link>https://ferreira-website.netlify.app/</link>
+    <description>Recent content on Ferreira Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://ferreira-website.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca de mim e objectivos</title>
+      <link>https://ferreira-website.netlify.app/aboutme/</link>
+      <pubDate>Sun, 01 Jan 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://ferreira-website.netlify.app/aboutme/</guid>
+      <description>Durante vários anos executei funções administrativas e de gestão. Sou persistente e batalhadora, procurando sempre o justo cumprimento &amp;ldquo;sistémico&amp;rdquo;. Com exaustiva experiência, hoje procuro ajudar o outro providenciando serviços que visam simplificar a complexidade burocrática.
+Precisa de renovar contractos tv, telemóvel, seguros, etc? Não tem tempo?
+Confuso com termninologia aplicada no seu contracto de xxx?
+Esta demorado a resolução de conflito com (empresa x / encomenda de artigo y)?
+Eu pretendo facilitar o resolução desses problemas com uma abordagem já informada e objectiva de forma a que possa consumar uma eficiente resposta perante o interessados!</description>
+    </item>
+    
+    <item>
+      <title>Governo anuncia novo apoio extraordinário de 240€ para as famílias mais vulneráveis.</title>
+      <link>https://ferreira-website.netlify.app/blog/governo-anuncia-novo-apoio-extraordin%C3%A1rio-de-240/</link>
+      <pubDate>Sun, 01 Jan 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://ferreira-website.netlify.app/blog/governo-anuncia-novo-apoio-extraordin%C3%A1rio-de-240/</guid>
+      <description>Governo anuncia novo apoio extraordinário de 240€ para as famílias mais vulneráveis. DECO questiona se será suficiente? Foi anunciada a criação de um novo apoio extraordinário no valor de 240€ para os consumidores mais vulneráveis. Estima-se que cerca de um milhão de famílias vá beneficiar deste apoio, a ser pago, ainda em dezembro, pela Segurança Social a quem é beneficiário de tarifa social da eletricidade ou de prestações sociais mínimas.</description>
+    </item>
+    
+    <item>
+      <title>Nova Lei das Comunicações Eletrónicas: DECO consegue o reforço da proteção do consumidor português</title>
+      <link>https://ferreira-website.netlify.app/blog/nova-lei-das-comunica%C3%A7%C3%B5es-eletr%C3%B3nicas/</link>
+      <pubDate>Sun, 01 Jan 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://ferreira-website.netlify.app/blog/nova-lei-das-comunica%C3%A7%C3%B5es-eletr%C3%B3nicas/</guid>
+      <description>Nova Lei das Comunicações Eletrónicas: DECO consegue o reforço da proteção do consumidor português No passado dia 14 de novembro entrou em vigor a nova Lei das Comunicações Eletrónicas que traz melhorias à proteção dos direitos e interesses do consumidor deste serviço público essencial, algumas delas fruto das reivindicações que a DECO apresentou ao longo deste processo legislativo. Dessas melhorias podemos destacar: as regras mais justas para o cálculo da compensação a pagar pelo consumidor em caso de cancelamento antecipado do contrato, durante o período de fidelização; introdução de regras específicas para situações de alteração das circunstâncias, por exemplo a alteração de morada, desemprego ou emigração do titular do contrato; ou mesmo uma forma mais equitativa de cálculo da compensação a pagar em caso de desbloqueamento de equipamentos terminais.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://ferreira-website.netlify.app/page/</link>
+      <pubDate>Sun, 01 Jan 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://ferreira-website.netlify.app/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
